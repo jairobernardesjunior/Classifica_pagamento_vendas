@@ -1,6 +1,6 @@
 # Classifica_pagamento_vendas
 
-![Imagem de Vendas](https://github.com/jairobernardesjunior/Classifica_pagamento_vendas/blob/main/vendas.jpg)
+![Imagem de Vendas](https://github.com/jairobernardesjunior/Classifica_pagamento_vendas/blob/main/vendas2.jpg)
 
 ## Descobre a Forma de Pagamento Que Cada Cliente Vai Adotar na Sua Compra.
 
